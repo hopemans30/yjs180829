@@ -5,10 +5,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>gitTest</title>
+<title>Insert title here</title>
 </head>
 <body>
-1
-2
+
 </body>
 </html>
